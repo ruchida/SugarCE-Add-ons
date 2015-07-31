@@ -75,7 +75,6 @@ This is your repository! Everyone is welcome to be involved by creating listings
 
 ## Calendaring
 * [Activities Sync - Use your native calendar on your favorite device](https://www.sugaroutfitters.com/addons/activities-sync) on SugarOutfitters.com
-* [SugarCAL - Real-time sync between SugarCE Calendar and Google](https://sourceforge.net/projects/sugarcal/) on Sourceforge.net.
 * [SynoCalendar - Make your calendar work like Gmail or Outlook](https://www.sugaroutfitters.com/addons/SynoCalendar) on SugarOutfitters.com
 
 ## Campaign Management
